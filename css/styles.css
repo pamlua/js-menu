@@ -1,0 +1,21 @@
+@import url(https://fonts.googleapis.com/css?family=Francois+One);
+
+body {
+  font-family: "Francois One";
+}
+
+ul li {
+  margin: 0;
+  display: inline-block;
+}
+ul a {
+  padding: 5px 10px;
+  text-decoration: none;
+  color: white;
+}
+.menuStatic {
+  background-color: black;
+}
+.menuHover {
+  background-color: #f5764b;
+}
